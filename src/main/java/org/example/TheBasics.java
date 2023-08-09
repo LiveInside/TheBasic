@@ -8,7 +8,7 @@ public class TheBasics {
             //System.out.println(fib(2));
             //System.out.println(isPowerOfThree(0));
             //System.out.println(diff(300,45));
-            //System.out.println(dnaToRna(""));
+            System.out.println(dnaToRna(""));
             System.out.println(addDigits(38));
         }
 
