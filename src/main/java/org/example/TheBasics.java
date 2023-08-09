@@ -6,8 +6,8 @@ public class TheBasics {
             //fizzBuzz(11, 20);
             //System.out.println(isBalanced("())(()"));
             //System.out.println(fib(2));
-            //System.out.println(isPowerOfThree(0));
-            //System.out.println(diff(300,45));
+            System.out.println(isPowerOfThree(0));
+            System.out.println(diff(300,45));
             System.out.println(dnaToRna(""));
             System.out.println(addDigits(38));
         }
