@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="773f5ec3-19ac-4112-a787-883fd68d0726" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CharacterToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TheBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TheBasicsTest.java" afterDir="false" />
+    <list default="true" id="773f5ec3-19ac-4112-a787-883fd68d0726" name="Changes" comment="init1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,6 +53,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects IDEA/TheBasicsCopy/TheBasic&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -105,7 +99,24 @@
       <workItem from="1691515866858" duration="1372000" />
       <workItem from="1691522072317" duration="2231000" />
       <workItem from="1691571759664" duration="609000" />
+      <workItem from="1691577724362" duration="572000" />
+      <workItem from="1691765705640" duration="39000" />
     </task>
+    <task id="LOCAL-00001" summary="init1">
+      <created>1691577949941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691577949941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init1">
+      <created>1691578000135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691578000135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +132,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init2" />
+    <option name="LAST_COMMIT_MESSAGE" value="init2" />
   </component>
 </project>

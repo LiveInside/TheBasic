@@ -3,9 +3,9 @@ package org.example;
 public class TheBasics {
 
         public static void main(String [] args){
-            //fizzBuzz(11, 20);
-            //System.out.println(isBalanced("())(()"));
-            //System.out.println(fib(2));
+            fizzBuzz(11, 20);
+            System.out.println(isBalanced("())(()"));
+            System.out.println(fib(2));
             System.out.println(isPowerOfThree(0));
             System.out.println(diff(300,45));
             System.out.println(dnaToRna(""));
